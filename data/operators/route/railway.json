@@ -235,6 +235,7 @@
       "locationSet": {"include": ["hr"]},
       "tags": {
         "operator": "HŽ Infrastruktura",
+        "operator:wikidata": "Q102035872",
         "route": "railway"
       }
     },
